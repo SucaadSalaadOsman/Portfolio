@@ -2,7 +2,7 @@ import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import s3 from '../assets/s3.png'
 import s2 from '../assets/s2.png'
-import s14 from '../assets/s14.png'
+import s14 from '../assets/s15.png'
 import s15 from '../assets/s11.png'
 import s6 from '../assets/s6.png'
 import s12 from '../assets/s13.png'
